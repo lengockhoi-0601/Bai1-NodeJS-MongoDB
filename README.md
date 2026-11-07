@@ -38,6 +38,16 @@ Hello World!
 Toi dang hoc Node.js va MongoDB.
 ```
 
-## 5. Kết luận
+## 5. Hình ảnh minh chứng
 
-Em đã cài đặt và kiểm tra thành công Node.js và npm. Đồng thời, em đã tạo và chạy thành công chương trình JavaScript đầu tiên bằng Node.js. Qua bài thực hành, em đã hiểu được cách sử dụng Node.js để thực thi mã JavaScript bên ngoài trình duyệt.
+### 5.1. Kiểm tra phiên bản Node.js và npm
+
+![Kiểm tra phiên bản Node.js và npm](images/node-npm-version.png)
+
+### 5.2. Kết quả chạy chương trình hello.js
+
+![Kết quả chạy Hello World](images/hello-world-result.png)
+
+## 6. Kết luận
+
+Em đã cài đặt và kiểm tra thành công Node.js và npm. Đồng thời, em đã tạo và chạy thành công chương trình JavaScript đầu tiên bằng Node.js. Qua bài thực hành, em đã hiểu được cách sử dụng Node.js để thực thi mã JavaScript bên ngoài trình duyệt.t.
